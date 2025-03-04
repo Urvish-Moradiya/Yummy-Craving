@@ -6,9 +6,9 @@
 
 Click on the image below to watch a demo of the website.
 
-[![Watch the output](assets/first.png)]
+![Watch the output](assets/first.png)
 
-[![Watch the output](assets/second.png)]
+![Watch the output](assets/second.png)
 
 ---
 
