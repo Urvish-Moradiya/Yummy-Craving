@@ -21,7 +21,6 @@ This project was built using the following technologies:
 - **Bootstrap**: A responsive design framework to make the site mobile-friendly.
 - **JavaScript**: Adds interactivity and dynamic behavior to the site.
 - **Font Awesome**: For beautiful icons.
-- **AOS (Animate On Scroll)**: For smooth animations when scrolling.
 
 ## Features
 
@@ -34,5 +33,4 @@ This project was built using the following technologies:
 
 1. Clone the repository.
 2. Open `index.html` in your browser to see the website in action.
-3. To view the demo video, click on the image above.
 
